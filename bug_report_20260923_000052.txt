@@ -1,0 +1,42 @@
+============================================================
+BUG REPORT #1 (ID: cea48a78)
+============================================================
+Title:               test
+Severity / Priority: Low / Low
+Status:              Open
+Reporter:            none
+Date reported:       2026-09-23 00:00:07
+Environment:         os
+
+Description:
+  test
+test
+
+Steps to reproduce:
+  test
+
+Expected result: test
+Actual result:   etet
+
+
+============================================================
+BUG REPORT #2 (ID: 12f60a00)
+============================================================
+Title:               qqq
+Severity / Priority: High / Medium
+Status:              Open
+Reporter:            Anonymous
+Date reported:       2026-09-23 00:00:47
+Environment:         
+
+Description:
+  qq
+
+Steps to reproduce:
+  q
+q
+
+Expected result: q
+Actual result:   q
+
+
